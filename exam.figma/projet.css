@@ -1,0 +1,224 @@
+body{
+    background-color: white;
+    font-family: "Josefin Sans", sans-serif;
+    width: 1920px;
+}
+
+.main-header{
+    background-image: url(./img/Img\ \(2\).png); 
+    background-size: cover;
+    height: 90vh;  
+    display: grid;
+    align-items: center;
+    color: white;
+}
+.container-m{
+    padding: 330px;
+    border-radius: 8px;
+    height: 100vh;
+}
+.container{
+    width: 500px;
+    height: 152px;
+    font-family: "Josefin Sans", sans-serif;
+    display: flex;
+    align-items: center;
+}
+.div-container{
+    font-family: "Josefin Sans", sans-serif;
+    text-align: center;
+    margin-top: 10px;
+}
+.div-container h1{
+    font-size: 48px;
+}
+.div-container p{
+    font-size: 24px;
+}
+
+.offering{
+    text-align: center;
+}
+.btn{
+    background-color: #128c76;
+    color: white;
+    font-size: larger;
+    width: 270px;
+    height: 70px;
+    padding: 24px 40px 22px 40px;
+    gap: 4px;
+    opacity: 0px;
+
+}
+section{
+    width: 1920px;
+    background-color: white;
+}
+.feature-section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    border: 1px solid white;
+    width: 1920px;
+    height: 90px;
+}
+.feature-txt{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    margin-top: 18px;
+    margin-left: 100px;
+    gap: 24px;
+
+}
+h1{
+    margin-top: 33px;
+    margin-left: 375px;
+    margin-bottom: 33px;
+    width: 250px;
+    color: #128c76;
+    font-family: "Josefin Sans", sans-serif;
+}
+.login{
+    width: 135px;
+    height: 54px;
+    padding: 16px 40px 14px 40px;
+    gap: 4px;
+    background-color: #128c76;
+    color: white;
+    font-family: "Josefin Sans", sans-serif;
+}
+.register{
+    width: 135px;
+    height: 54px;
+    padding: 16px 40px 14px 40px;
+    gap: 4px;
+    border-color: red;
+    color: red;
+    background-color: white;
+    font-family: "Josefin Sans", sans-serif;
+}
+span{
+    font-family: "Josefin Sans", sans-serif;
+    color: #128c76; 
+}
+.containers{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 20px;
+}
+
+.view-btn{
+    border: 1px solid #F56B8D; 
+    background-color: white;
+    color: #F56B8D;
+    width: 270px;
+    height:70px;
+    top: 1850px;
+    left: 825px;
+    padding: 24px 40px 22px 40px;
+    gap: 4px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    font-family: "Josefin Sans", sans-serif;
+    margin-top: 5%;
+}
+.divbtn{
+    display: flex;
+    align-items: center;
+    flex-direction: center;
+    justify-content: center;
+}
+footer{
+    background: #ECECEC;
+}
+.applybtn{
+    width: 270px;
+    height: 70px;
+    padding: 24px 40px 22px 40px;
+    gap: 4px;
+    opacity: 0px;
+    background-color: #128C76;
+    color:white;
+    font-family: "Josefin Sans", sans-serif;
+    border-color: #128C76;
+}
+h4{
+    font-size: 50px;
+}
+.application{
+    width: 570px;
+    height: 422px;
+    gap: 40px
+}
+h6{
+    font-size: 16px;
+}
+.oxalis1{
+    box-shadow: 0px 24px 60px 0px #33333329;
+    position: relative;
+
+}
+.oxalis2{
+    box-shadow: 0px 24px 60px 0px #33333329;
+
+}
+.oxalis3{
+    box-shadow: 0px 24px 60px 0px #33333329;
+
+}
+.top{
+    font-family: "Josefin Sans", sans-serif;
+    z-index: 1;
+}
+.tap{
+    font-family: "Josefin Sans", sans-serif;
+    z-index: 2;
+}
+.tap-top{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    position: absolute;
+}
+.applysection{
+    margin: 8%;
+}
+
+.footer-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.email{
+    margin-left: 20%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    z-index: 1;
+}
+.socials{
+    width: 123.49px;
+    height: 16px;
+    top: 408px;
+    left: 1421px;
+    gap: 40px;
+    opacity: 0px;
+    display: flex;
+    z-index: 2;
+
+}
+.containers-invest{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-right: 30%;
+}
+.footer-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
